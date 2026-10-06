@@ -1,0 +1,270 @@
+[
+  {
+    "id": 1,
+    "topic": "Gerak Parabola",
+    "type": "PG Tunggal",
+    "stimulus": "Sebuah bola ditendang dari permukaan lapangan dengan kelajuan awal 20 m/s pada sudut 53° terhadap horizontal. Ambil g = 10 m/s², sin 53° = 0,8, dan cos 53° = 0,6. Seorang pemain berada 24 m di depan penendang dan mencoba menangkap bola tepat saat bola melewati posisi pemain.",
+    "question": "Ketinggian bola ketika tepat berada di atas posisi pemain adalah ...",
+    "options": [
+      "8 m",
+      "10 m",
+      "12 m",
+      "14 m",
+      "16 m"
+    ],
+    "answer": [
+      "C"
+    ],
+    "explanation": "Komponen kecepatan awal vₓ=20(0,6)=12 m/s dan vᵧ=20(0,8)=16 m/s. Pada x=24 m, waktu t=24/12=2 s. Ketinggian y=vᵧt−½gt²=16(2)−5(2²)=32−20=12 m. Jadi jawaban C."
+  },
+  {
+    "id": 2,
+    "topic": "Gerak Parabola",
+    "type": "MCMA",
+    "stimulus": "Sebuah proyektil ditembakkan dari tanah dengan kelajuan awal tetap. Percobaan dilakukan pada sudut 37°, 45°, dan 53°. Titik jatuh berada pada ketinggian yang sama dengan titik peluncuran. Abaikan hambatan udara.",
+    "question": "Pernyataan yang benar adalah ... (pilih semua yang benar).",
+    "options": [
+      "Sudut 37° dan 53° menghasilkan jangkauan horizontal yang sama.",
+      "Sudut 45° menghasilkan waktu terbang paling lama.",
+      "Untuk kelajuan awal yang sama, komponen horizontal pada 37° lebih besar daripada pada 53°.",
+      "Tinggi maksimum pada 53° lebih besar daripada pada 37°.",
+      "Pada 37° dan 53°, besar kecepatan saat kembali ke tanah sama dengan kelajuan awal."
+    ],
+    "answer": [
+      "A",
+      "D",
+      "E"
+    ],
+    "explanation": "R=v₀²sin2θ/g, sehingga sin74°=sin106° dan jangkauan sama. Waktu terbang T=2v₀sinθ/g, sehingga 53° lebih lama daripada 45°. vₓ pada 37° lebih besar daripada pada 53°. Hmaks sebanding sin²θ, sehingga 53° lebih tinggi. Karena kembali ke ketinggian awal dan hambatan udara diabaikan, kelajuan akhir sama dengan kelajuan awal."
+  },
+  {
+    "id": 3,
+    "topic": "Gerak Parabola",
+    "type": "MCMA",
+    "stimulus": "Sebuah bola dilempar dari tepi gedung setinggi 20 m dengan kelajuan awal 15 m/s. Arah lemparan membentuk sudut 37° ke bawah terhadap horizontal. Gunakan g=10 m/s², sin37°=0,6, cos37°=0,8.",
+    "question": "Pernyataan yang benar adalah ... (pilih semua yang benar).",
+    "options": [
+      "Komponen awal vertikal bola adalah −9 m/s.",
+      "Komponen horizontal kecepatan tetap 12 m/s.",
+      "Waktu bola mencapai tanah adalah tepat 2 s.",
+      "Jarak horizontal yang ditempuh bola adalah 24 m.",
+      "Kelajuan bola sesaat sebelum menyentuh tanah lebih besar daripada 15 m/s."
+    ],
+    "answer": [
+      "A",
+      "B",
+      "E"
+    ],
+    "explanation": "vₓ=15(0,8)=12 m/s dan vᵧ=−15(0,6)=−9 m/s. Persamaan vertikal 0=20−9t−5t² memberi t≈1,40 s, bukan 2 s. Jarak horizontal sekitar 16,8 m. Dengan energi mekanik, kelajuan akhir √(15²+2(10)(20))=25 m/s, sehingga lebih besar dari 15 m/s."
+  },
+  {
+    "id": 4,
+    "topic": "Gerak Parabola",
+    "type": "Benar-Salah",
+    "stimulus": "Sebuah bola dilempar dengan v₀=25 m/s pada sudut 37° dari tanah. Gunakan g=10 m/s², sin37°=0,6 dan cos37°=0,8. Abaikan hambatan udara.",
+    "question": "Tentukan Benar atau Salah untuk setiap pernyataan.",
+    "statements": [
+      [
+        "Komponen horizontal kecepatan awal adalah 20 m/s.",
+        "B"
+      ],
+      [
+        "Waktu mencapai titik tertinggi adalah 1,5 s.",
+        "B"
+      ],
+      [
+        "Tinggi maksimum yang dicapai adalah 11,25 m.",
+        "B"
+      ],
+      [
+        "Pada titik tertinggi, percepatan bola sama dengan nol.",
+        "S"
+      ],
+      [
+        "Besar kecepatan di titik tertinggi adalah 15 m/s.",
+        "S"
+      ]
+    ],
+    "answer": [
+      "B",
+      "B",
+      "B",
+      "S",
+      "S"
+    ],
+    "explanation": "vₓ=25(0,8)=20 m/s dan vᵧ=25(0,6)=15 m/s. t_puncak=15/10=1,5 s. Hmaks=15²/(2×10)=11,25 m. Percepatan tetap 10 m/s² ke bawah. Di puncak vᵧ=0 sehingga kelajuan hanya 20 m/s, bukan 15 m/s."
+  },
+  {
+    "id": 5,
+    "topic": "Gerak Parabola",
+    "type": "Benar-Salah",
+    "stimulus": "Dua bola A dan B diluncurkan dari tanah dengan kelajuan awal sama 20 m/s. Bola A pada 30°, bola B pada 60°. Abaikan hambatan udara dan gunakan g=10 m/s².",
+    "question": "Tentukan Benar atau Salah.",
+    "statements": [
+      [
+        "Jangkauan horizontal A dan B sama.",
+        "B"
+      ],
+      [
+        "Waktu terbang B lebih lama daripada A.",
+        "B"
+      ],
+      [
+        "Tinggi maksimum B lebih besar daripada A.",
+        "B"
+      ],
+      [
+        "Kelajuan kedua bola saat kembali ke tanah berbeda.",
+        "S"
+      ],
+      [
+        "Komponen horizontal kecepatan B lebih besar daripada A.",
+        "S"
+      ]
+    ],
+    "answer": [
+      "B",
+      "B",
+      "B",
+      "S",
+      "S"
+    ],
+    "explanation": "R bergantung pada sin2θ; sin60°=sin120°, sehingga jangkauan sama. T=2v₀sinθ/g membuat B lebih lama. Hmaks sebanding sin²θ sehingga B lebih tinggi. Keduanya kembali ke ketinggian awal dengan kelajuan 20 m/s. vₓA=20cos30° lebih besar daripada vₓB=20cos60°."
+  },
+  {
+    "id": 6,
+    "topic": "Fluida Statis",
+    "type": "PG Tunggal",
+    "stimulus": "Sebuah tangki berisi air memiliki dua lubang kecil pada dinding vertikal. Lubang A berada 0,8 m di bawah permukaan air, sedangkan lubang B berada 1,8 m di bawah permukaan. Tekanan atmosfer sama di kedua lubang dan g=10 m/s².",
+    "question": "Perbandingan kelajuan pancaran air dari lubang B terhadap lubang A adalah ...",
+    "options": [
+      "1 : 2",
+      "√2 : 1",
+      "3 : 2",
+      "2 : 1",
+      "3 : 1"
+    ],
+    "answer": [
+      "B"
+    ],
+    "explanation": "Hukum Torricelli v=√(2gh). Jadi vB/vA=√(1,8/0,8)=√2. Perbandingannya adalah √2 : 1."
+  },
+  {
+    "id": 7,
+    "topic": "Fluida Statis",
+    "type": "MCMA",
+    "stimulus": "Sebuah balok tercelup seluruhnya dalam air dan digantung pada neraca pegas. Di udara neraca menunjukkan 50 N, sedangkan ketika seluruh balok tercelup air neraca menunjukkan 30 N. Gunakan ρair=1000 kg/m³ dan g=10 m/s².",
+    "question": "Pernyataan yang benar adalah ... (pilih semua yang benar).",
+    "options": [
+      "Gaya Archimedes yang bekerja pada balok adalah 20 N.",
+      "Massa balok adalah 5 kg.",
+      "Volume balok adalah 2×10⁻³ m³.",
+      "Massa jenis balok adalah 2500 kg/m³.",
+      "Jika balok dipindahkan ke cairan bermassa jenis 800 kg/m³ dan tetap tercelup seluruhnya, gaya apung menjadi 16 N."
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Gaya apung=50−30=20 N. Massa=50/10=5 kg. Volume=20/(1000×10)=2×10⁻³ m³. Massa jenis=5/(2×10⁻³)=2500 kg/m³. Dalam cairan 800 kg/m³, gaya apung=800×10×2×10⁻³=16 N. Semua benar."
+  },
+  {
+    "id": 8,
+    "topic": "Fluida Dinamis",
+    "type": "MCMA",
+    "stimulus": "Air mengalir tunak dalam pipa horizontal. Luas penampang titik 1 adalah 8 cm² dan titik 2 adalah 2 cm². Kelajuan air di titik 1 adalah 3 m/s. Massa jenis air 1000 kg/m³. Tekanan di titik 1 adalah 200 kPa.",
+    "question": "Pernyataan yang benar adalah ... (pilih semua yang benar).",
+    "options": [
+      "Kelajuan air di titik 2 adalah 12 m/s.",
+      "Debit volumetrik pada titik 1 dan 2 sama.",
+      "Tekanan di titik 2 lebih kecil daripada tekanan di titik 1.",
+      "Tekanan di titik 2 adalah sekitar 132,5 kPa.",
+      "Energi mekanik per satuan volume fluida tetap sepanjang pipa horizontal."
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "Kontinuitas: A₁v₁=A₂v₂ sehingga v₂=(8/2)3=12 m/s. Bernoulli horizontal memberi p₂=200−½(1000)(12²−3²)/1000=132,5 kPa. Debit tetap dan tekanan turun ketika kelajuan meningkat. Semua pernyataan benar."
+  },
+  {
+    "id": 9,
+    "topic": "Fluida Dinamis",
+    "type": "Benar-Salah",
+    "stimulus": "Sebuah aliran air ideal melewati pipa yang menyempit. Pada titik 1, luas penampang 6 cm² dan kelajuan 2 m/s. Pada titik 2, luas penampang 3 cm². Pipa horizontal dan aliran tunak.",
+    "question": "Tentukan Benar atau Salah.",
+    "statements": [
+      [
+        "Kelajuan di titik 2 adalah 4 m/s.",
+        "B"
+      ],
+      [
+        "Debit volumetrik di titik 1 lebih besar daripada titik 2.",
+        "S"
+      ],
+      [
+        "Tekanan di titik 2 lebih kecil daripada tekanan di titik 1.",
+        "B"
+      ],
+      [
+        "Jika luas penampang diperkecil lagi, kelajuan fluida semakin kecil.",
+        "S"
+      ],
+      [
+        "Persamaan Bernoulli dapat digunakan karena pipa horizontal dan fluida dianggap ideal.",
+        "B"
+      ]
+    ],
+    "answer": [
+      "B",
+      "S",
+      "B",
+      "S",
+      "B"
+    ],
+    "explanation": "Kontinuitas menghasilkan v₂=(6/3)2=4 m/s. Debit tetap. Karena kelajuan meningkat, tekanan statis turun. Penyempitan lebih lanjut membuat kelajuan semakin besar untuk debit yang sama. Asumsi fluida ideal memungkinkan Bernoulli."
+  },
+  {
+    "id": 10,
+    "topic": "Fluida Dinamis",
+    "type": "Benar-Salah",
+    "stimulus": "Sebuah tangki terbuka memiliki permukaan air 1,25 m di atas lubang kecil pada dinding. Tekanan atmosfer di permukaan dan lubang sama. Gunakan g=10 m/s² dan abaikan viskositas.",
+    "question": "Tentukan Benar atau Salah.",
+    "statements": [
+      [
+        "Kelajuan pancaran air saat keluar dari lubang adalah 5 m/s.",
+        "B"
+      ],
+      [
+        "Tekanan atmosfer perlu dimasukkan dalam persamaan Bernoulli jika kedua titik sama-sama terbuka ke atmosfer.",
+        "S"
+      ],
+      [
+        "Jika kedalaman lubang dibuat empat kali lebih besar, kelajuan pancaran menjadi dua kali semula.",
+        "B"
+      ],
+      [
+        "Debit pancaran pasti tetap jika luas lubang tidak berubah tetapi tinggi permukaan air turun.",
+        "S"
+      ],
+      [
+        "Model Torricelli berasal dari persamaan Bernoulli dengan asumsi luas tangki jauh lebih besar daripada luas lubang.",
+        "B"
+      ]
+    ],
+    "answer": [
+      "B",
+      "S",
+      "B",
+      "S",
+      "B"
+    ],
+    "explanation": "v=√(2gh)=√25=5 m/s. Tekanan atmosfer saling menghilangkan. Jika h menjadi 4h, v menjadi 2v. Ketika permukaan turun, h dan kelajuan berubah sehingga debit tidak tetap. Torricelli diperoleh dari Bernoulli dengan kecepatan permukaan dianggap sangat kecil dibandingkan kecepatan pada lubang."
+  }
+]
